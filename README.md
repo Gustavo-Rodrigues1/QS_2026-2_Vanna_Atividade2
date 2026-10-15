@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Contexto Confiável: verificação, segurança e melhoria de aplicações de IA generativa</b><br>
-  Missão escolhida: <i>(B) Defesa contra Prompt Injection — teste de conteúdo externo malicioso.</i>.
+  Missão escolhida: <i>(B) Defesa contra Prompt Injection — teste de conteúdo externo malicioso</i>.
 </p>
 
 </div>
