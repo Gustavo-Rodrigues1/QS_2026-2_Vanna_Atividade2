@@ -30,13 +30,13 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 
 | # | Integrante | Matrícula | Função / Foco na Atividade |
 | :-: | :--- | :-: | :--- |
-| **01** | Rauany Ingrid Santos de Jesus | `202300061760` | Análise de Requisitos & Usabilidade |
-| **02** | André Felipe de Santana Conceição | `202300061527` | Testes de Segurança & Repositório |
-| **03** | João Andryel Santos Menezes | `202300061652` | Análise de Variabilidade & Prompts |
-| **04** | José Henrique Souza Santana | `202300061699` | Execução de Testes Funcionais & Relatório |
-| **05** | Tasso Marcel de Oliveira | `202300061984` | Mapeamento ISO/IEC 25010 & Evidências |
-| **06** | Gustavo Rodrigues dos Santos | `202300061939` | Testes de Robustez & Proveniência |
-| **07** | João Santos Rocha | `202300061948` | Diagnóstico, Plano de Melhoria & Apresentação |
+| **01** | Rauany Ingrid Santos de Jesus | `202300061760` | |
+| **02** | André Felipe de Santana Conceição | `202300061527` | |
+| **03** | João Andryel Santos Menezes | `202300061652` | |
+| **04** | José Henrique Souza Santana | `202300061699` | Contexto e prompts |
+| **05** | Tasso Marcel de Oliveira | `202300061984` | |
+| **06** | Gustavo Rodrigues dos Santos | `202300061939` | |
+| **07** | João Santos Rocha | `202300061948` | |
 
 ---
 
