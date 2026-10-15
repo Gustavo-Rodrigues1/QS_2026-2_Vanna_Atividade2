@@ -4,7 +4,6 @@
 
 ![Disciplina](https://img.shields.io/badge/Disciplina-Qualidade_de_Software-0969da?style=for-the-badge)
 ![Equipe](https://img.shields.io/badge/Equipe-07-blueviolet?style=for-the-badge)
-![Norma](https://img.shields.io/badge/Norma-ISO%2FIEC_25010%3A2023-1f883d?style=for-the-badge)
 ![Projeto](https://img.shields.io/badge/Projeto-Vanna.ai-ff6b6b?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Entregáveis_Prontos-2ea44f?style=for-the-badge)
 
