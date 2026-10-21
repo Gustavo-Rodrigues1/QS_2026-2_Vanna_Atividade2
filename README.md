@@ -56,6 +56,16 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 ├── README.md                               # Documentação principal estilizada
 ├── VIDEO.md                                # Metadados e links do vídeo obrigatório
 ```
+## Declarações de uso de IA
+| # | Integrante | Ferramenta | Tarefa |
+| :-: | :--- | :-: | :--- |
+| **01** | Rauany Ingrid Santos de Jesus | Claude | Utilizei ferramentas de inteligência artificial generativa como apoio à revisão textual, à organização das informações e à análise crítica dos resultados da Parte C do trabalho, referente à verificação das fontes e à geração de saída estruturada. Essas ferramentas auxiliaram na interpretação das evidências disponibilizadas, na identificação de limitações e na elaboração de propostas de melhoria para o relatório. As respostas geradas foram utilizadas como apoio. |
+| **02** | André Felipe de Santana Conceição | | |
+| **03** | João Andryel Santos Menezes | | |
+| **04** | José Henrique Souza Santana | | |
+| **05** | Tasso Marcel de Oliveira | | |
+| **06** | Gustavo Rodrigues dos Santos | | |
+| **07** | João Santos Rocha | | |
 
 ---
 <div align="center">
