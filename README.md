@@ -34,7 +34,7 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 | **02** | André Felipe de Santana Conceição | `202300061527` | |
 | **03** | João Andryel Santos Menezes | `202300061652` | |
 | **04** | José Henrique Souza Santana | `202300061699` | Contexto e prompts |
-| **05** | Tasso Marcel de Oliveira | `202300061984` | |
+| **05** | Tasso Marcel de Oliveira | `202300061984` | Modelo de ameaças simplificado |
 | **06** | Gustavo Rodrigues dos Santos | `202300061939` | |
 | **07** | João Santos Rocha | `202300061948` | |
 
