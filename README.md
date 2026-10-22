@@ -20,8 +20,8 @@
 
 A URL pública e dados do vídeo de demonstração estão indicados abaixo e no arquivo [`VIDEO.md`](./VIDEO.md):
 
-- **Link do Vídeo:** [](VIDEO.md)
-- **Data de Gravação:** 
+- **Link do Vídeo:** [https://drive.google.com/file/d/1srabjDUqFAztvrbtNOYgozBCLULgOVbA/view?usp=sharing](VIDEO.md)
+- **Data de Gravação: *21/10/2026* 
 - **Participantes:** Equipe 07 (todos os discentes participam com identificação individual de suas contribuições).
 
 ---
@@ -31,12 +31,12 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 | # | Integrante | Matrícula | Função / Foco na Atividade |
 | :-: | :--- | :-: | :--- |
 | **01** | Rauany Ingrid Santos de Jesus | `202300061760` |Análise dos resultados de fontes e saída estruturada. |
-| **02** | André Felipe de Santana Conceição | `202300061527` | |
+| **02** | André Felipe de Santana Conceição | `202300061527` | Execução dos testes de verificação de fontes e saídas estruturadas |
 | **03** | João Andryel Santos Menezes | `202300061652` | Fluxo simplificado e classificação dos dados do recorte |
 | **04** | José Henrique Souza Santana | `202300061699` | Contexto e prompts |
 | **05** | Tasso Marcel de Oliveira | `202300061984` | Modelo de ameaças simplificado |
-| **06** | Gustavo Rodrigues dos Santos | `202300061939` | |
-| **07** | João Santos Rocha | `202300061948` | |
+| **06** | Gustavo Rodrigues dos Santos | `202300061939` | Elaboração do plano de melhoria |
+| **07** | João Santos Rocha | `202300061948` | Elaboração e execução dos testes |
 
 ---
 
@@ -64,8 +64,8 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 | **03** | João Andryel Santos Menezes | Gemini 3.8 Flash | Foi utilizado para sanar dúvidas e como apoio na formatação de texto|
 | **04** | José Henrique Souza Santana | | |
 | **05** | Tasso Marcel de Oliveira | | |
-| **06** | Gustavo Rodrigues dos Santos | | |
-| **07** | João Santos Rocha | | |
+| **06** | Gustavo Rodrigues dos Santos | Gemini 3.8 Flash | Foi utilizado como apoio para formatação e correção de texto|
+| **07** | João Santos Rocha | Claude | Auxílio na elaboração de testes e na documentação, como formatação e correção ortográfica |
 
 ---
 <div align="center">
