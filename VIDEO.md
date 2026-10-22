@@ -1,7 +1,7 @@
 # Vídeo da Atividade — Equipe 07 (Vanna.ai)
 
-- **URL do Vídeo:** 
-- **Data da Gravação:** 
+- **URL do Vídeo: *https://drive.google.com/file/d/1srabjDUqFAztvrbtNOYgozBCLULgOVbA/view?usp=sharing* 
+- **Data da Gravação: *21/10/2026* 
 - **Duração:** Máximo de 20 minutos
 
 ---
