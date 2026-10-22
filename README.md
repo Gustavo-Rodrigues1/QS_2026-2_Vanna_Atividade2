@@ -50,19 +50,13 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 
 ---
 
-## Estrutura do Repositório
-
-```text
-├── README.md                               # Documentação principal estilizada
-├── VIDEO.md                                # Metadados e links do vídeo obrigatório
-```
 ## Declarações de uso de IA
 | # | Integrante | Ferramenta | Tarefa |
 | :-: | :--- | :-: | :--- |
 | **01** | Rauany Ingrid Santos de Jesus | Claude | Utilizei ferramentas de inteligência artificial generativa como apoio à revisão textual, à organização das informações e à análise crítica dos resultados da Parte C do trabalho, referente à verificação das fontes e à geração de saída estruturada. Essas ferramentas auxiliaram na interpretação das evidências disponibilizadas, na identificação de limitações e na elaboração de propostas de melhoria para o relatório. As respostas geradas foram utilizadas como apoio. |
 | **02** | André Felipe de Santana Conceição | | |
 | **03** | João Andryel Santos Menezes | Gemini 3.8 Flash | Foi utilizado para sanar dúvidas e como apoio na formatação de texto|
-| **04** | José Henrique Souza Santana | | |
+| **04** | José Henrique Souza Santana | Gemini 3.8 Flash | Foi utilizado para elaborar uma questão interessante para alvo de análise dos prompts e contexto |
 | **05** | Tasso Marcel de Oliveira | | |
 | **06** | Gustavo Rodrigues dos Santos | Gemini 3.8 Flash | Foi utilizado como apoio para formatação e correção de texto|
 | **07** | João Santos Rocha | Claude | Auxílio na elaboração de testes e na documentação, como formatação e correção ortográfica |
